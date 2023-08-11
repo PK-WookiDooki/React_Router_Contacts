@@ -1,0 +1,194 @@
+{
+  "contacts": [
+    {
+      "name": "Jamie Vardy",
+      "phone": "(835) 916-3326",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6UemxYGImRTtQBZnA_l3R64YUGLUjlRDCQ&usqp=CAU",
+      "notes": "JV",
+      "favorite": true,
+      "id": 1
+    },
+    {
+      "name": "Jameson Mcfarland",
+      "phone": "(252) 518-7647",
+      "id": 2,
+      "notes": "Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum",
+      "avatar": "https://www.w3schools.com/w3images/avatar2.png",
+      "favorite": false
+    },
+    {
+      "name": "Serena Nicholson",
+      "phone": "(777) 620-4426",
+      "id": 6,
+      "notes": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
+      "avatar": "https://sm.ign.com/ign_nordic/cover/a/avatar-gen/avatar-generations_prsz.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Damien Henderson",
+      "phone": "1-927-350-6913",
+      "avatar": "https://cdn.icon-icons.com/icons2/2438/PNG/512/boy_avatar_icon_148455.png",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "favorite": false,
+      "id": 7
+    },
+    {
+      "name": "Fredericka Michael",
+      "phone": "1-247-551-4454",
+      "id": 8,
+      "notes": "pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi.",
+      "avatar": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "favorite": true
+    },
+    {
+      "name": "Jarrod Riddle",
+      "phone": "(113) 355-4571",
+      "id": 9,
+      "notes": "metus. Aenean sed pede nec ante blandit viverra. Donec tempus,",
+      "avatar": "https://media.istockphoto.com/id/1331335536/vector/female-avatar-icon.jpg?s=170667a&w=0&k=20&c=-iyD_53ZEeZPc4SmvmGB1FJXZcHy_fvbJBv6O8HblHs=",
+      "favorite": true
+    },
+    {
+      "name": "Karly Conner",
+      "phone": "(206) 559-5667",
+      "id": 10,
+      "notes": "et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget",
+      "avatar": "https://imgv3.fotor.com/images/gallery/watercolor-female-avatar.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Perry Schwartz",
+      "phone": "(783) 674-7346",
+      "id": 11,
+      "notes": "nec ante blandit viverra. Donec tempus, lorem fringilla ornare placerat,",
+      "avatar": "https://play-lh.googleusercontent.com/7Ak4Ye7wNUtheIvSKnVgGL_OIZWjGPZNV6TP_3XLxHC-sDHLSE45aDg41dFNmL5COA=w240-h480-rw",
+      "favorite": true
+    },
+    {
+      "name": "Dennis Hardy",
+      "phone": "1-321-364-7821",
+      "id": 12,
+      "notes": "odio. Nam interdum enim non nisi. Aenean eget metus. In",
+      "avatar": "https://imgv3.fotor.com/images/gallery/american-anime-stule-naked-man-avatar.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Kasimir Bradshaw",
+      "phone": "1-283-267-7271",
+      "id": 13,
+      "notes": "auctor odio a purus. Duis elementum, dui quis accumsan convallis,",
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
+      "favorite": false
+    },
+    {
+      "name": "Dolan Griffin",
+      "phone": "(782) 920-7714",
+      "id": 14,
+      "notes": "non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu.",
+      "avatar": "https://cdn.icon-icons.com/icons2/2438/PNG/512/boy_avatar_icon_148455.png",
+      "favorite": true
+    },
+    {
+      "name": "Fritz Hickman",
+      "phone": "(663) 764-1941",
+      "id": 15,
+      "notes": "a, dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam",
+      "avatar": "https://media.istockphoto.com/id/1331335536/vector/female-avatar-icon.jpg?s=170667a&w=0&k=20&c=-iyD_53ZEeZPc4SmvmGB1FJXZcHy_fvbJBv6O8HblHs=",
+      "favorite": true
+    },
+    {
+      "name": "Honorato Downs",
+      "phone": "(218) 428-7218",
+      "id": 16,
+      "notes": "lacinia mattis. Integer eu lacus. Quisque imperdiet, erat nonummy ultricies",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/014/391/422/original/man-avatar-icon-flat-vector.jpg",
+      "favorite": true
+    },
+    {
+      "name": "Talon Stuart",
+      "phone": "1-274-815-4933",
+      "id": 17,
+      "notes": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer,",
+      "avatar": "https://sm.ign.com/ign_nordic/cover/a/avatar-gen/avatar-generations_prsz.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Abdul Walls",
+      "phone": "(676) 211-7156",
+      "id": 18,
+      "notes": "lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/014/391/422/original/man-avatar-icon-flat-vector.jpg",
+      "favorite": false
+    },
+    {
+      "name": "Lysandra Leblanc",
+      "phone": "1-371-432-6856",
+      "id": 19,
+      "notes": "non leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis",
+      "avatar": "https://cdn.icon-icons.com/icons2/2438/PNG/512/boy_avatar_icon_148455.png",
+      "favorite": true
+    },
+    {
+      "name": "Dalton Baird",
+      "phone": "(136) 311-1436",
+      "id": 20,
+      "notes": "turpis non enim. Mauris quis turpis vitae purus gravida sagittis.",
+      "avatar": "https://imgv3.fotor.com/images/gallery/watercolor-female-avatar.jpg",
+      "favorite": true
+    },
+    {
+      "id": 21,
+      "name": "Justin Bieber",
+      "phone": "0997458465",
+      "avatar": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSqoSEuV0lmNrEVLwJ6q75DaOWQjorN0b2G_BLJr4OScCX0YSZ",
+      "notes": "JB",
+      "favorite": true
+    },
+    {
+      "id": 22,
+      "name": "Genos",
+      "phone": "0997455456",
+      "avatar": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSqoSEuV0lmNrEVLwJ6q75DaOWQjorN0b2G_BLJr4OScCX0YSZ",
+      "notes": "Genos",
+      "favorite": true
+    },
+    {
+      "name": "Wooki Dooki",
+      "phone": "0965645748",
+      "avatar": "https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_640.png",
+      "notes": "WD",
+      "favorite": true,
+      "id": 23
+    },
+    {
+      "id": 24,
+      "name": "Sneaker Shop",
+      "phone": "0258527456",
+      "avatar": "https://assets.hermes.com/is/image/hermesproduct/quicker-sneaker--102190ZH09-worn-1-0-0-800-800_g.jpg",
+      "notes": "Hermes Quicke",
+      "favorite": true
+    },
+    {
+      "id": 25,
+      "name": "Alice",
+      "phone": "0987455487",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnW9nO7bZa-La9MjA_PiznoOBuVrg9TjXhg&usqp=CAU",
+      "notes": "Model Alice",
+      "favorite": true
+    },
+    {
+      "id": 26,
+      "name": "Wooki Dooki",
+      "phone": "0944875778877",
+      "favorite": false
+    },
+    {
+      "id": 27,
+      "name": "Robert ",
+      "phone": "014545787",
+      "avatar": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/rdj-sixteen_nine.jpg?VersionId=8uGUiM4UFJ9RbMrcZm_XTNmsKJ7_mUW1&size=690:388",
+      "notes": "Iron Man (aka) Tony Stark",
+      "favorite": false
+    }
+  ]
+}
