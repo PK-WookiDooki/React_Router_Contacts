@@ -9,4 +9,7 @@ export default {
     },
     important: true,
     plugins: [],
+    //corePlugins: {
+    //    preflight: false,
+    //},
 };

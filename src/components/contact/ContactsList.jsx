@@ -78,28 +78,28 @@ const ContactsList = () => {
 
     return (
         <section className="p-3 flex flex-col gap-5 h-full">
-            <div className="flex items-center gap-5 justify-center">
+            <div className="flex flex-col md:flex-row items-center gap-5 justify-center">
                 <button
                     onClick={() => handleFilter("all")}
                     className={`font-semibold ${
-                        filter === "all" ? "opacity-100" : "opacity-50"
-                    } hover:opacity-100 duration-200`}
+                        filter === "all" ? "text-blue-600" : "text-black"
+                    } hover:text-blue-600 duration-200`}
                 >
                     All Contacts
                 </button>
                 <button
                     onClick={() => handleFilter("favorite")}
                     className={`font-semibold ${
-                        filter === "favorite" ? "opacity-100" : "opacity-50"
-                    } hover:opacity-100 duration-200`}
+                        filter === "favorite" ? "text-blue-600" : "text-black"
+                    } hover:text-blue-600 duration-200`}
                 >
                     Favorite Contacts
                 </button>
                 <button
                     onClick={() => handleFilter("unfavorite")}
                     className={`font-semibold ${
-                        filter === "unfavorite" ? "opacity-100" : "opacity-50"
-                    } hover:opacity-100 duration-200`}
+                        filter === "unfavorite" ? "text-blue-600" : "text-black"
+                    } hover:text-blue-600 duration-200`}
                 >
                     Un-Favorite Contacts
                 </button>

@@ -40,8 +40,8 @@ const Contact = () => {
     };
 
     return (
-        <section className="h-full">
-            <section className="flex flex-col lg:flex-row text-center lg:text-left items-center gap-3 p-3 bg-black/10 rounded-md ">
+        <section className="h-full flex items-center justify-center md:items-start md:justify-normal">
+            <section className="flex flex-col lg:flex-row text-center lg:text-left justify-center md:justify-normal items-center gap-3 p-3 rounded-md w-full md:bg-black/10">
                 <div className="min-w-[208px] max-w-[208px] h-52 rounded-md overflow-hidden">
                     <img
                         src={

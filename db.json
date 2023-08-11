@@ -9,14 +9,6 @@
       "id": 1
     },
     {
-      "name": "Jameson Mcfarland",
-      "phone": "(252) 518-7647",
-      "id": 2,
-      "notes": "Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum",
-      "avatar": "https://www.w3schools.com/w3images/avatar2.png",
-      "favorite": false
-    },
-    {
       "name": "Serena Nicholson",
       "phone": "(777) 620-4426",
       "id": 6,
@@ -188,7 +180,7 @@
       "phone": "014545787",
       "avatar": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/rdj-sixteen_nine.jpg?VersionId=8uGUiM4UFJ9RbMrcZm_XTNmsKJ7_mUW1&size=690:388",
       "notes": "Iron Man (aka) Tony Stark",
-      "favorite": false
+      "favorite": true
     }
   ]
 }

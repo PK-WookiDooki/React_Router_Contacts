@@ -36,11 +36,3 @@
   background-color: #2563eb;
   color: #fff;
 }
-
-.db-link{
-  opacity: 0.4;
-}
-
-.db-link.active, .db-link:hover{
-  opacity: 1;
-}
